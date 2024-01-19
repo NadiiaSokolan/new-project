@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cd6c403-3901-4339-ad7c-760d5faeeb3b" name="Changes" comment="add c" />
+    <list default="true" id="4cd6c403-3901-4339-ad7c-760d5faeeb3b" name="Changes" comment="add space" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +28,7 @@
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2bAru0LEFCgeZfdbPIqrLyQfuE2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +40,7 @@
     "Jest.adds 1 + 2 to equal 3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -88,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705668944091</updated>
-      <workItem from="1705668945074" duration="3027000" />
+      <workItem from="1705668945074" duration="3332000" />
     </task>
     <task id="LOCAL-00001" summary="add c">
       <option name="closed" value="true" />
@@ -106,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705671707913</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add space">
+      <option name="closed" value="true" />
+      <created>1705672358346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705672358346</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add c" />
-    <option name="LAST_COMMIT_MESSAGE" value="add c" />
+    <MESSAGE value="add space" />
+    <option name="LAST_COMMIT_MESSAGE" value="add space" />
   </component>
 </project>
